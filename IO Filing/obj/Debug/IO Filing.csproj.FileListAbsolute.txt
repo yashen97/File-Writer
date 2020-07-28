@@ -1,0 +1,7 @@
+C:\Users\Yashen\source\repos\IO Filing\IO Filing\bin\Debug\IO Filing.exe.config
+C:\Users\Yashen\source\repos\IO Filing\IO Filing\bin\Debug\IO Filing.exe
+C:\Users\Yashen\source\repos\IO Filing\IO Filing\bin\Debug\IO Filing.pdb
+C:\Users\Yashen\source\repos\IO Filing\IO Filing\obj\Debug\IO Filing.csprojAssemblyReference.cache
+C:\Users\Yashen\source\repos\IO Filing\IO Filing\obj\Debug\IO Filing.csproj.CoreCompileInputs.cache
+C:\Users\Yashen\source\repos\IO Filing\IO Filing\obj\Debug\IO Filing.exe
+C:\Users\Yashen\source\repos\IO Filing\IO Filing\obj\Debug\IO Filing.pdb
